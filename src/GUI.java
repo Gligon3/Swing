@@ -1,12 +1,11 @@
 import javax.swing.*;
-import java.awt.*;
 import java.io.*;
 
 public class GUI {
-    private JButton instructionsButton;
-    private JButton instructionsButton1;
-    private JButton instructionsButton2;
-    private JButton instructionsButton3;
+    private JButton NYTTButton;
+    private JButton sparaButton;
+    private JButton openButton;
+    private JButton sökButton;
     private JButton timerButton;
     private JRadioButton restartRadioButton;
     private JRadioButton pressOpenRadioButton;
